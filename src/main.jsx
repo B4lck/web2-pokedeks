@@ -14,7 +14,7 @@ const router = createHashRouter([
                 <a href={"#/"}>Home</a>
                 <a href={"#/about"}>About</a>
             </div>
-            <h1>Pokedeks - Nikolai Balck</h1>
+            <h1>Pokedeks - Nikolai Balck & Mazen Sharaf</h1>
             <Outlet />
         </>,
         children: [
